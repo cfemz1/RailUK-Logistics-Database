@@ -30,5 +30,4 @@ The supplied SQL is a schema-focused script. It does not include sample-data ins
 ## How to use
 Run `railuk_logistics_setup.sql` in an Oracle SQL environment (such as Oracle APEX SQL Workshop or SQL Developer) using a clean schema. Review the setup notes first. The script is a reorganised portfolio copy; `original_submission.sql` is retained for comparison.
 
-## Academic project
-This repository presents university coursework for portfolio and learning purposes. It is not represented as a production-ready logistics platform.
+
